@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		50C44A1D2150E7800093B3E9 /* FSPagerViewObjcCompat.h in Headers */ = {isa = PBXBuildFile; fileRef = 50C44A1C2150E7800093B3E9 /* FSPagerViewObjcCompat.h */; };
+		50C44A1D2150E7800093B3E9 /* FSPagerViewObjcCompat.h in Headers */ = {isa = PBXBuildFile; fileRef = 50C44A1C2150E7800093B3E9 /* FSPagerViewObjcCompat.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		F931E0062158A062001B2A01 /* FSPagerViewObjcCompat.m in Sources */ = {isa = PBXBuildFile; fileRef = F931E0052158A062001B2A01 /* FSPagerViewObjcCompat.m */; };
 		F9580B7B1E5D9F0600C5B267 /* FSPagerView.h in Headers */ = {isa = PBXBuildFile; fileRef = F9580B791E5D9F0600C5B267 /* FSPagerView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		F9580B881E5D9F2B00C5B267 /* FSPageControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9580B821E5D9F2B00C5B267 /* FSPageControl.swift */; };
